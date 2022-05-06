@@ -1,0 +1,215 @@
+.head{
+    background-color: grey;
+    height: 50px;
+    color: white;
+    font-size: 20px;
+}
+*{
+    margin:0px;
+    padding:0px;
+}
+.head img{
+    padding-left: 30px;
+    margin-top: 10px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+   
+}
+.service{
+    float: right;
+    padding-right: 80px;
+}
+
+img{
+    margin-left: 20px;
+   margin-top: 5px;
+}
+.nav{
+    width:100%;
+    height:90px;
+
+}
+p{
+    padding-top: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: brown;
+}
+#font{
+    padding-left: 400px;
+    margin-top: -50px;
+}
+#login h3{
+    float: right;
+    padding-right: 90px;
+    margin-top: -50px;
+    word-spacing: 10px;
+    color: black;
+    cursor: pointer;
+}
+#home{
+    margin-top: 40px;
+    padding-left: 30px;
+    background-color: rgb(79, 77, 77);
+   
+
+}
+#home ul{
+    overflow: auto;
+}
+#home li{
+    float: left;
+    list-style: none;
+    padding: 25px;
+    cursor: pointer;
+    font-size: 20px;
+    color: white;
+}
+#home li :hover{
+    color: red;
+}
+.lside{width:150px;
+    height:1000px;
+    width:200px;
+    margin-left: 20px;
+    background-color: rgb(204, 196, 196);
+    margin-top: 10px;
+   
+
+}
+#menu{
+    background-color: black;
+    height:30px;
+}#menu2{
+    background-color: black;
+    height:30px;
+    margin-top: 45px;
+}
+#menu3{
+    background-color: black;
+    height:43px;
+    margin-top: 45px;
+}
+h4{
+    color: white;
+    text-align: center;
+    padding-top: 3px;
+    font-size: 20px;
+}
+h6{
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    padding-top: 3px;
+}
+ .select select{
+    margin-top: 20px;
+    width:200px;
+    background-color: rgb(204, 196, 196);
+    text-align: center;
+  
+}
+section{
+    padding-left: 300px;
+    margin-top: -1010px;
+}
+.in{
+    padding-left: 5px;
+    width:100%;
+    margin-top: 20px;
+    height:40px;
+}
+::placeholder{
+padding-left:50px;
+}
+.box1{
+    display: inline-block;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid black;
+    background-color: grey;
+}
+.box2{
+    display: inline-block;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid black;
+    background-color: grey;
+}
+.box3{
+    display: inline-block;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid black;
+    background-color: grey;
+}
+
+.box4{
+    display: inline-block;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid black;
+    background-color: grey;
+}
+
+.box5{
+    display: inline-block;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid black;
+    background-color: grey;
+}
+
+.box6{
+    display: inline-block;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid black;
+    background-color: grey;
+}
+h5{
+    text-align: center;
+    font-size: 15px;
+}
+#footer{
+    background-color: grey;
+    height:250px;
+}
+.set li{
+    list-style: none;
+    word-spacing: 3px;
+    line-height: 20px;
+    letter-spacing: 2px;
+   
+}
+.set li:hover{
+    color:orange;
+}
+
+.set{
+ 
+  display: inline-block;
+  cursor: pointer;
+}
+#set1{
+    margin-left: 80px;
+}
+#set2{
+    margin-left: 70px;
+    position: relative;
+    top:-50px;
+    padding: 50px;
+ 
+ 
+}
+#set3{
+    margin-left: 50px;
+    position: relative;
+    top:-70px;
+    padding: 50px;
+ 
+ 
+}
